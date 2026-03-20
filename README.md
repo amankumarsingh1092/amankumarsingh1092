@@ -1,5 +1,14 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1><br><h3 align="center">Aspiring Data Scientist | Statistics Graduate | Machine Learning Enthusiast</h3><br><br>---<br><br>### 👨‍💻 About Me<br>- 🎓 Master's in Statistics – Amity University (CGPA: 9.33)<br>- 📊 Passionate about **Data Science, Machine Learning & Analytics**<br>- 🧠 Experienced in **Python, SQL, R, Power BI, and ML modeling**<br>- 🚀 Built **ML models and deployed apps using Streamlit**<br>- 🔍 Interested in **Predictive Modeling, Financial Data Analysis & AI**<br><br>---<br><br>### 🛠️ Tech Stack<br><br>**Languages**<br>- Python<br>- R<br>- SQL<br><br>**Data Science**<br>- Pandas<br>- NumPy<br>- Scikit-learn<br>- EDA<br>- Feature Engineering<br><br>**Visualization**<br>- Power BI<br>- Tableau<br>- Matplotlib<br>- Seaborn<br><br>**Tools**<br>- Git<br>- Jupyter Notebook<br>- VS Code<br>- Streamlit<br><br>---<br><br>### 📊 Featured Projects<br><br>#### 🔹 Employee Salary Prediction (ML + Streamlit)<br>- Built Gradient Boosting classifier<br>- Predicts salary category<br>- Supports batch CSV predictions<br><br>#### 🔹 Stock Market ML Analysis<br>- Compared ML algorithms on BSE & NSE data<br>- Used Random Forest, SVM, KNN, Naive Bayes<br>- Evaluated using Accuracy, F1-score, AUC<br><br>#### 🔹 Tobacco Mortality Data Analysis<br>- Healthcare dataset analysis (2004–2015)<br>- Identified patterns using Python and statistics<br><br>#### 🔹 Amazon Sales Dashboard<br>- Interactive Power BI dashboard<br>- Category performance insights<br><br>---<br><br>### 📈 GitHub Stats<br><br>![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amankumarsingh1092&show_icons=true)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsingh1092&layout=compact)<br><br>---<br><br>### 🔗 Connect With Me<br><br>📧 Email: aksingh1652@gmail.com  <br>💼 LinkedIn: https://linkedin.com/in/aman-kumar-singh-71a090206  <br>💻 GitHub: https://github.com/amankumarsingh1092<br><br>---<br><br>⭐ *Always open to Data Science / Data Analyst opportunities*
+## Hi, I'm Aman 👋✨
+
+💻 Master's Student in Statistics at Amity University  
+📊 Aspiring Data Scientist & Data Analyst  
+🐍 I work with Python, SQL, Machine Learning & Data Visualization  
+📈 I build ML models and data analysis projects  
+🚀 Interested in Financial Data Analysis & AI  
+
+🔗 Connect with me:  
+- LinkedIn: https://linkedin.com/in/aman-kumar-singh-71a090206  
+- GitHub: https://github.com/amankumarsingh1092
 
 
 ## 🌐 Socials:
