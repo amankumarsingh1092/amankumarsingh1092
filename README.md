@@ -1,5 +1,10 @@
-## Hi, I'm Aman 👋✨<br><br>💻 Master's Student in Statistics at Amity University  <br>📊 Aspiring Data Scientist & Data Analyst  <br>🐍 I work with Python, SQL, Machine Learning & Data Visualization  <br>📈 I build ML models and data analysis projects  <br>🚀 Interested in Financial Data Analysis & AI  <br>
+## Hi, I'm Aman 👋✨
 
+💻 Master's Student in Statistics at Amity University  
+📊 Aspiring Data Scientist & Data Analyst  
+🐍 I work with Python, SQL, Machine Learning & Data Visualization  
+📈 I build ML models and data analysis projects  
+🚀 Interested in Financial Data Analysis & AI  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-singh-71a090206)
